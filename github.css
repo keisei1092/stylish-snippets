@@ -1,0 +1,8 @@
+/* URLs on the domain: github.com */
+
+.comment-body, .markdown-body, .comment-form-textarea, .js-issue-title, .message {
+    font-family: Helvetica, "Hiragino Maru Gothic ProN", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+.pl-c, .pl-s {
+    font-family: Consolas, "Hiragino Maru Gothic ProN";
+}

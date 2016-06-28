@@ -1,0 +1,8 @@
+/* URLs matching the regexp: https://.+.slack.com/.+ */
+
+.message_body, #channel_topic_text, .channel_purpose_text, .pinned_message_text, .title {
+    font-family: Slack-Lato, 'Hiragino Maru Gothic ProN' !important;
+}
+#message-input, .realname {
+    font-family: 'Hiragino Maru Gothic ProN' !important;
+}

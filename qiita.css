@@ -1,0 +1,8 @@
+/* URLs starting with: http://qiita.com/ */
+
+body, h1, h2, h3, h4, h5, h6 {
+    font-family: 'YuGothic' !important;
+}
+pre, code, .editorMarkdown_textarea {
+    font-family: 'Consolas', 'YuGothic' !important;
+}
